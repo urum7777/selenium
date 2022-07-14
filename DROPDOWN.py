@@ -29,3 +29,6 @@ try:
     # clic.perform()
     # time.sleep(4)
     # clic.perform()
+
+except Exception as e:
+    print(e, type(e))
