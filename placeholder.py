@@ -1,4 +1,6 @@
 import time
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 
 url = "http://88.214.35.93:8080/"
 

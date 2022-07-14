@@ -11,7 +11,7 @@ try:
     time.sleep(5)
 
     text_input = driver.find_element(By.ID, "myTextInput")
-    text_input.send_keys("text").
+    text_input.send_keys("text")
 
     time.sleep(5)
 
